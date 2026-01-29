@@ -1,0 +1,3617 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://api.dc.library.northwestern.edu/api/v2/collections/0ba3a256-4952-44ea-b0d9-0772835ff137?as=iiif&page=6",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "Ronald J. Sullivan Photograph Collection"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Ronald J. Sullivan Photograph Collection is an extensive collection of photographs and slides of public and commercial buses and public transit and commuter trains, dating from 1946-2000. The bulk of the collection comprises photographs taken by Ronald J. Sullivan, an amateur photographer and rail and bus enthusiast; also included are historic images of Chicago-area transit that were part of Sullivan’s personal collection, and which supplement  the photographer’s original material. The majority of the photographs were taken in Chicago, Illinois and the surrounding area, with a few in other cities and international locations. Sullivan documented nearly all of the photographs and slides in this collection in detail with bus or train numbers, route numbers, street intersections or stations, and dates. For the sake of consistency and ease of searching for specific items the City of Chicago Street Guide abbreviations and a list of common abbreviations found in the collection will be used. "
+    ]
+  },
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/24cf115b-284d-40c3-baa1-ef3298ec54c4?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/24cf115b-284d-40c3-baa1-ef3298ec54c4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5023/60, 1st & Pine"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5023/60, 1st & Pine"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/24cf115b-284d-40c3-baa1-ef3298ec54c4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/43879f64-32bf-4c86-bc62-d646b07354b7?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/43879f64-32bf-4c86-bc62-d646b07354b7",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "CSL/CTA/22753, Pulaski & Lawrence"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "CSL/CTA/22753, Pulaski & Lawrence"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/43879f64-32bf-4c86-bc62-d646b07354b7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4cdddc41-d931-4af5-bddc-950051199e06?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4cdddc41-d931-4af5-bddc-950051199e06",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "3383, Ravenswood, Armitage"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "3383, Ravenswood, Armitage"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4cdddc41-d931-4af5-bddc-950051199e06/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5b549493-fef7-435e-9568-eb22bab66941?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5b549493-fef7-435e-9568-eb22bab66941",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "CTA/4579/74, Brickyard Mall"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "CTA/4579/74, Brickyard Mall"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5b549493-fef7-435e-9568-eb22bab66941/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/958d3c2e-3462-486a-8176-fcaca2a81827?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/958d3c2e-3462-486a-8176-fcaca2a81827",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9120/60, Monroe & Michigan"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9120/60, Monroe & Michigan"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/958d3c2e-3462-486a-8176-fcaca2a81827/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2bb6b262-88a4-4bb4-a7ab-b2a991fe3e4a?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2bb6b262-88a4-4bb4-a7ab-b2a991fe3e4a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9479/68, Gale & Milwaukee"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9479/68, Gale & Milwaukee"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2bb6b262-88a4-4bb4-a7ab-b2a991fe3e4a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d825105-8250-4135-a5ee-ef6c0b4b80d9?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2d825105-8250-4135-a5ee-ef6c0b4b80d9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "255, 8th & Michigan, Scenic"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "255, 8th & Michigan, Scenic"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d825105-8250-4135-a5ee-ef6c0b4b80d9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/310e9ca7-34bc-440d-b19f-d3181a5a7c99?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/310e9ca7-34bc-440d-b19f-d3181a5a7c99",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2606, Englewood–Lake, Wabash and Randolph"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2606, Englewood–Lake, Wabash and Randolph"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/310e9ca7-34bc-440d-b19f-d3181a5a7c99/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/317c889f-7cc2-4391-b7a3-c501c61e64da?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/317c889f-7cc2-4391-b7a3-c501c61e64da",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metra/BN 9917, 18th & Western"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metra/BN 9917, 18th & Western"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/317c889f-7cc2-4391-b7a3-c501c61e64da/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/36c44d29-83ba-475b-bd58-e4a89e833690?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/36c44d29-83ba-475b-bd58-e4a89e833690",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2831, O'Hare–Congress, Ainslie and Kennedy"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2831, O'Hare–Congress, Ainslie and Kennedy"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/36c44d29-83ba-475b-bd58-e4a89e833690/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5c01fb3e-b78d-4431-a7d7-9a158f68d94a?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5c01fb3e-b78d-4431-a7d7-9a158f68d94a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8044, 163rd & Clinton"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8044, 163rd & Clinton"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5c01fb3e-b78d-4431-a7d7-9a158f68d94a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5cd10bb3-ab61-44f1-8899-2cfa5da7b675?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5cd10bb3-ab61-44f1-8899-2cfa5da7b675",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "3548/58, 25th & Laramie"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "3548/58, 25th & Laramie"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5cd10bb3-ab61-44f1-8899-2cfa5da7b675/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5eb6b723-57c7-46bf-ada3-d2f980a79114?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5eb6b723-57c7-46bf-ada3-d2f980a79114",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "167, Washington Garage"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "167, Washington Garage"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5eb6b723-57c7-46bf-ada3-d2f980a79114/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/81d3ca2a-cf17-4a0d-8f0f-1a55041476bd?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/81d3ca2a-cf17-4a0d-8f0f-1a55041476bd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8070/312, Harlem & Washington"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8070/312, Harlem & Washington"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81d3ca2a-cf17-4a0d-8f0f-1a55041476bd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9946b224-8041-49bc-ba3f-bf0a51bc3862?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9946b224-8041-49bc-ba3f-bf0a51bc3862",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "901, State & Wacker"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "901, State & Wacker"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9946b224-8041-49bc-ba3f-bf0a51bc3862/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/00a4100c-41ca-4acd-90af-9d83b7adfe5d?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/00a4100c-41ca-4acd-90af-9d83b7adfe5d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "113"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "113"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/00a4100c-41ca-4acd-90af-9d83b7adfe5d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/09e70ce7-525f-4c86-9e5b-8f2dcdf8b666?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/09e70ce7-525f-4c86-9e5b-8f2dcdf8b666",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9167, North & Cicero"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9167, North & Cicero"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/09e70ce7-525f-4c86-9e5b-8f2dcdf8b666/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/28f170b1-6765-47d0-a42e-882c3367c334?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/28f170b1-6765-47d0-a42e-882c3367c334",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1268/3, Michigan & Congress"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1268/3, Michigan & Congress"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/28f170b1-6765-47d0-a42e-882c3367c334/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3ac3f3ac-0407-4bea-ad14-f8198e647d32?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3ac3f3ac-0407-4bea-ad14-f8198e647d32",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2709, Milwaukee & Grand & Halsted"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2709, Milwaukee & Grand & Halsted"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3ac3f3ac-0407-4bea-ad14-f8198e647d32/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c19b566-546d-47bf-b915-984b8ade38b8?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3c19b566-546d-47bf-b915-984b8ade38b8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "516"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "516"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c19b566-546d-47bf-b915-984b8ade38b8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c616833-931f-408a-a327-beea81cbe29d?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3c616833-931f-408a-a327-beea81cbe29d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2869 O'Hare B/ Douglas, Dearborn & Washington"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2869 O'Hare B/ Douglas, Dearborn & Washington"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c616833-931f-408a-a327-beea81cbe29d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/47fbb019-df65-4247-8ad2-46e6a881de73?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/47fbb019-df65-4247-8ad2-46e6a881de73",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "44 Evanston Shuttle, Davis"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "44 Evanston Shuttle, Davis"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/47fbb019-df65-4247-8ad2-46e6a881de73/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/49440ee9-8f5e-4043-a314-5a4626c911c3?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/49440ee9-8f5e-4043-a314-5a4626c911c3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2505/21, Cermak & Peoria"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2505/21, Cermak & Peoria"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/49440ee9-8f5e-4043-a314-5a4626c911c3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/88936c15-4cdb-4d39-a7cd-0666a87190d3?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/88936c15-4cdb-4d39-a7cd-0666a87190d3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5910, Des Plaines & Kinzie"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5910, Des Plaines & Kinzie"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/88936c15-4cdb-4d39-a7cd-0666a87190d3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a4bf1db-9a0d-4e36-a2bf-0cb05346bdfb?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8a4bf1db-9a0d-4e36-a2bf-0cb05346bdfb",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1369/158A, Canal & Jackson"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1369/158A, Canal & Jackson"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a4bf1db-9a0d-4e36-a2bf-0cb05346bdfb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c26bdec-108b-446b-aa4f-350e0e3494b3?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3c26bdec-108b-446b-aa4f-350e0e3494b3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "7758/4, 11th & Michigan"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "7758/4, 11th & Michigan"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3c26bdec-108b-446b-aa4f-350e0e3494b3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3cd1292a-da11-4230-bff6-8862a1ba0176?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3cd1292a-da11-4230-bff6-8862a1ba0176",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5126, York, Neb."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5126, York, Neb."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3cd1292a-da11-4230-bff6-8862a1ba0176/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4b9f5019-a68a-4cb3-97d5-4753834021a1?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4b9f5019-a68a-4cb3-97d5-4753834021a1",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9269/153, State and Jackson"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9269/153, State and Jackson"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4b9f5019-a68a-4cb3-97d5-4753834021a1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ceddc5c-bded-4243-a8f7-0bf8c36bf9b6?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4ceddc5c-bded-4243-a8f7-0bf8c36bf9b6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "446/3, 1st & Long Beach Blvd."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "446/3, 1st & Long Beach Blvd."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ceddc5c-bded-4243-a8f7-0bf8c36bf9b6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/50a3a7d0-c101-4c57-b9ff-d751527645d9?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/50a3a7d0-c101-4c57-b9ff-d751527645d9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "6209, Stockton & Roslyn"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "6209, Stockton & Roslyn"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/50a3a7d0-c101-4c57-b9ff-d751527645d9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/57ecb9fe-68fb-4c1d-895f-8c06d1bf185f?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/57ecb9fe-68fb-4c1d-895f-8c06d1bf185f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1211, Cicero & Kennedy"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1211, Cicero & Kennedy"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57ecb9fe-68fb-4c1d-895f-8c06d1bf185f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/58b48642-9a8c-4f0d-9a58-57151a7df846?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/58b48642-9a8c-4f0d-9a58-57151a7df846",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "7161/23, Madison & State"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "7161/23, Madison & State"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/58b48642-9a8c-4f0d-9a58-57151a7df846/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5ae5014a-d24f-4a8f-9477-0ac42c5f5afc?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5ae5014a-d24f-4a8f-9477-0ac42c5f5afc",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "7623/151, State Pkwy. & La Salle Dr."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "7623/151, State Pkwy. & La Salle Dr."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5ae5014a-d24f-4a8f-9477-0ac42c5f5afc/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/67ece5b2-7035-4169-9d88-817ad5b98297?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/67ece5b2-7035-4169-9d88-817ad5b98297",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8038; 8018, 27th & Kostner"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8038; 8018, 27th & Kostner"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/67ece5b2-7035-4169-9d88-817ad5b98297/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/10293050-7963-43d7-8770-903a1674db46?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/10293050-7963-43d7-8770-903a1674db46",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Santa Fe/9542, 49th & Kedzie"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Santa Fe/9542, 49th & Kedzie"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/10293050-7963-43d7-8770-903a1674db46/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/12a6d8c3-02d0-4903-be9a-9f84f166a7c5?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/12a6d8c3-02d0-4903-be9a-9f84f166a7c5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Amtrak/220, 1st & Vignes, LA"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Amtrak/220, 1st & Vignes, LA"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/12a6d8c3-02d0-4903-be9a-9f84f166a7c5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3faf8022-9535-470c-8928-6252cc3b69c6?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3faf8022-9535-470c-8928-6252cc3b69c6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4647/55A, 59th & Kilpatrick"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4647/55A, 59th & Kilpatrick"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3faf8022-9535-470c-8928-6252cc3b69c6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4336938f-36b6-45c1-8646-a4b339a7392a?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4336938f-36b6-45c1-8646-a4b339a7392a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "92, Balbo & Michigan, Colonial"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "92, Balbo & Michigan, Colonial"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4336938f-36b6-45c1-8646-a4b339a7392a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/495428ce-2040-4564-ab97-018f9f790892?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/495428ce-2040-4564-ab97-018f9f790892",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4313/152, Addison & California"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4313/152, Addison & California"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/495428ce-2040-4564-ab97-018f9f790892/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5171ec24-3ff7-4ded-a865-72e3f48bc161?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5171ec24-3ff7-4ded-a865-72e3f48bc161",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8015/422, Old Orchard"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8015/422, Old Orchard"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5171ec24-3ff7-4ded-a865-72e3f48bc161/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/51f4488d-113e-4808-aaf4-17358b88fbc4?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/51f4488d-113e-4808-aaf4-17358b88fbc4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1758/16, Lake & Dearborn"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1758/16, Lake & Dearborn"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/51f4488d-113e-4808-aaf4-17358b88fbc4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/57336cc8-41e0-49ff-97bc-9fd773fc0c49?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/57336cc8-41e0-49ff-97bc-9fd773fc0c49",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "7789/95E, S. Chicago & Clyde"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "7789/95E, S. Chicago & Clyde"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57336cc8-41e0-49ff-97bc-9fd773fc0c49/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/59b3fb8f-79fb-4e0f-957b-29b54ef35cc3?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/59b3fb8f-79fb-4e0f-957b-29b54ef35cc3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "6599, Ravenswood, Lincoln and Paulina"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "6599, Ravenswood, Lincoln and Paulina"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/59b3fb8f-79fb-4e0f-957b-29b54ef35cc3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5d1861a2-e880-4705-ac6e-37d4a98db0ce?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5d1861a2-e880-4705-ac6e-37d4a98db0ce",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9235/36, Lake & State"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9235/36, Lake & State"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5d1861a2-e880-4705-ac6e-37d4a98db0ce/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/77e26a50-2579-4544-ba2b-5d9e465f31f4?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/77e26a50-2579-4544-ba2b-5d9e465f31f4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9558/82, Kimball & Montrose"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9558/82, Kimball & Montrose"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/77e26a50-2579-4544-ba2b-5d9e465f31f4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a336528-8c1c-4a9c-8875-c93b5ba01468?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7a336528-8c1c-4a9c-8875-c93b5ba01468",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4272, Damen"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4272, Damen"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a336528-8c1c-4a9c-8875-c93b5ba01468/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8fcc7004-7b3d-4478-a486-2c67551f04e5?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8fcc7004-7b3d-4478-a486-2c67551f04e5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9213/156, Stockton & Wrightwood"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9213/156, Stockton & Wrightwood"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8fcc7004-7b3d-4478-a486-2c67551f04e5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7e2b886c-6e79-4eb2-9215-6da6a85d02e1?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7e2b886c-6e79-4eb2-9215-6da6a85d02e1",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "3425/31, 31st & Pitney Ct."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "3425/31, 31st & Pitney Ct."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7e2b886c-6e79-4eb2-9215-6da6a85d02e1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/80cc71ff-8e7a-4fe7-9793-2d54a4a5c828?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/80cc71ff-8e7a-4fe7-9793-2d54a4a5c828",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Mi-30, Jefferson & Washington, Indian Trails"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Mi-30, Jefferson & Washington, Indian Trails"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/80cc71ff-8e7a-4fe7-9793-2d54a4a5c828/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/81708185-479a-45a9-996f-8d27dc94b1fd?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/81708185-479a-45a9-996f-8d27dc94b1fd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2254, Douglas–O'Hare, 54th Ave. Yards"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2254, Douglas–O'Hare, 54th Ave. Yards"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81708185-479a-45a9-996f-8d27dc94b1fd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e0a9c98-b951-4cd0-b4d4-8a38e238e4cd?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8e0a9c98-b951-4cd0-b4d4-8a38e238e4cd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5941, Harrison & Jefferson"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5941, Harrison & Jefferson"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e0a9c98-b951-4cd0-b4d4-8a38e238e4cd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ec13db2-3dc3-482b-ae99-8a7cd8b84610?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8ec13db2-3dc3-482b-ae99-8a7cd8b84610",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metra/1534, Michigan & Van Buren"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metra/1534, Michigan & Van Buren"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ec13db2-3dc3-482b-ae99-8a7cd8b84610/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7ac6f5e2-811e-4fc0-af31-c15e97e4bf95?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7ac6f5e2-811e-4fc0-af31-c15e97e4bf95",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "52, Milwaukee & Northwest Hwy. Tempie Bay"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "52, Milwaukee & Northwest Hwy. Tempie Bay"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7ac6f5e2-811e-4fc0-af31-c15e97e4bf95/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7b21e1c1-b969-4973-81e4-f6bbf37977f5?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7b21e1c1-b969-4973-81e4-f6bbf37977f5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Marquette & Huron Mountain 100, Illinois Railway Museum, Union, IL"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Marquette & Huron Mountain 100, Illinois Railway Museum, Union, IL"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7b21e1c1-b969-4973-81e4-f6bbf37977f5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7f21c548-4895-4ac8-b328-80a03aa2dbef?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7f21c548-4895-4ac8-b328-80a03aa2dbef",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8029/309, North Blvd. & Harvey"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8029/309, North Blvd. & Harvey"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7f21c548-4895-4ac8-b328-80a03aa2dbef/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/81012079-e82d-47a1-890e-32000ed280dd?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/81012079-e82d-47a1-890e-32000ed280dd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "422, leased to CTU Corp., 168th & Vandam Rd., Red Top Coach"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "422, leased to CTU Corp., 168th & Vandam Rd., Red Top Coach"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81012079-e82d-47a1-890e-32000ed280dd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/82a202fe-cecc-459c-aca9-eacc1990ff12?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/82a202fe-cecc-459c-aca9-eacc1990ff12",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "CTA/9879/77, Diversey & Lake Shore Dr. W."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "CTA/9879/77, Diversey & Lake Shore Dr. W."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/82a202fe-cecc-459c-aca9-eacc1990ff12/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/929f5c34-0e01-47c3-99a4-1e8a54033f5c?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/929f5c34-0e01-47c3-99a4-1e8a54033f5c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "BN/197, 26th & Laramie, Clyde Yards"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "BN/197, 26th & Laramie, Clyde Yards"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/929f5c34-0e01-47c3-99a4-1e8a54033f5c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/92dd247e-6a9a-4419-9175-09f9a3ac03a8?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/92dd247e-6a9a-4419-9175-09f9a3ac03a8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "125, LAX"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "125, LAX"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/92dd247e-6a9a-4419-9175-09f9a3ac03a8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/949b8d8e-1f5e-4085-acd8-aad93dcec871?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/949b8d8e-1f5e-4085-acd8-aad93dcec871",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5546/56, Cicero & Irving Pk."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5546/56, Cicero & Irving Pk."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/949b8d8e-1f5e-4085-acd8-aad93dcec871/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c1451b31-ede7-4140-8f52-6ba97c694357?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c1451b31-ede7-4140-8f52-6ba97c694357",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1223/34, Diversey Garage"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1223/34, Diversey Garage"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c1451b31-ede7-4140-8f52-6ba97c694357/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/82e0aa92-23af-4731-9a1c-26d03cb2ba36?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/82e0aa92-23af-4731-9a1c-26d03cb2ba36",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4862/29, State & Randolph"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4862/29, State & Randolph"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/82e0aa92-23af-4731-9a1c-26d03cb2ba36/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8509d0fd-7aa1-4d93-a3d9-2db714bdc6df?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8509d0fd-7aa1-4d93-a3d9-2db714bdc6df",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5840, interior, rear to front"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5840, interior, rear to front"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8509d0fd-7aa1-4d93-a3d9-2db714bdc6df/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8839ec49-fd9d-4edf-9bef-f650591554d7?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8839ec49-fd9d-4edf-9bef-f650591554d7",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1623/81, Kilbourn & Lawrence"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1623/81, Kilbourn & Lawrence"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8839ec49-fd9d-4edf-9bef-f650591554d7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/88b37d57-d9c1-4c62-aef9-5c08631a4dd2?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/88b37d57-d9c1-4c62-aef9-5c08631a4dd2",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "566/62, State & Washington"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "566/62, State & Washington"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/88b37d57-d9c1-4c62-aef9-5c08631a4dd2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/89bf6852-5ce4-4d9f-a84e-bc51a8ef25fd?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/89bf6852-5ce4-4d9f-a84e-bc51a8ef25fd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9665/36, Clark & Arthur"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9665/36, Clark & Arthur"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/89bf6852-5ce4-4d9f-a84e-bc51a8ef25fd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8c9093bc-46cc-498f-afb1-444537941e08?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8c9093bc-46cc-498f-afb1-444537941e08",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "422/152, Addison & Pulaski"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "422/152, Addison & Pulaski"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8c9093bc-46cc-498f-afb1-444537941e08/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8cf3b446-4f64-4fcc-af22-92141e01c989?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8cf3b446-4f64-4fcc-af22-92141e01c989",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2381, Des Plaines & Kinzie"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2381, Des Plaines & Kinzie"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8cf3b446-4f64-4fcc-af22-92141e01c989/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e6b0f99-bfec-4ac7-ae3c-4e1819146bd0?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8e6b0f99-bfec-4ac7-ae3c-4e1819146bd0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Soo/4234, Montclare"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Soo/4234, Montclare"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e6b0f99-bfec-4ac7-ae3c-4e1819146bd0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ff0ea65-3f05-4847-beeb-4bd5226d52a8?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8ff0ea65-3f05-4847-beeb-4bd5226d52a8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4322, Oakton & McCormick"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4322, Oakton & McCormick"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ff0ea65-3f05-4847-beeb-4bd5226d52a8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9504a144-2f7d-4350-b981-00098ce7d9b8?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9504a144-2f7d-4350-b981-00098ce7d9b8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2385/58, Ogden & Roosevelt"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2385/58, Ogden & Roosevelt"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9504a144-2f7d-4350-b981-00098ce7d9b8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/948596b9-480d-4242-bd96-e855079b5990?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/948596b9-480d-4242-bd96-e855079b5990",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1734/84, Ridge & Broadway"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1734/84, Ridge & Broadway"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/948596b9-480d-4242-bd96-e855079b5990/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/953f504c-f0d3-43bc-9a23-b6579e7f1ec5?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/953f504c-f0d3-43bc-9a23-b6579e7f1ec5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "BW67/Ex-1006, Lake & Clinton"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "BW67/Ex-1006, Lake & Clinton"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/953f504c-f0d3-43bc-9a23-b6579e7f1ec5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9540acf6-ac66-4564-b234-982bbe1a48a2?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9540acf6-ac66-4564-b234-982bbe1a48a2",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "BW70/Ex-1316, Jefferson Pk."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "BW70/Ex-1316, Jefferson Pk."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9540acf6-ac66-4564-b234-982bbe1a48a2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/96bf27de-2430-496c-9446-93aeb9b51437?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/96bf27de-2430-496c-9446-93aeb9b51437",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "8748/313, Lake & Forest Ave."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "8748/313, Lake & Forest Ave."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/96bf27de-2430-496c-9446-93aeb9b51437/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9b1cd84a-8297-4888-b3a4-9103ef04ec70?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9b1cd84a-8297-4888-b3a4-9103ef04ec70",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9950/56A, Jefferson Pk."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9950/56A, Jefferson Pk."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9b1cd84a-8297-4888-b3a4-9103ef04ec70/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9b21fac7-a167-4feb-a234-ea834f493e20?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9b21fac7-a167-4feb-a234-ea834f493e20",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2344/270, Jefferson Pk."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2344/270, Jefferson Pk."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9b21fac7-a167-4feb-a234-ea834f493e20/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9c3ef56c-d8e7-43b1-aea0-5e0cbc32d1db?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9c3ef56c-d8e7-43b1-aea0-5e0cbc32d1db",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "638/8, Halsted & 64th St."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "638/8, Halsted & 64th St."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9c3ef56c-d8e7-43b1-aea0-5e0cbc32d1db/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9f88f8f2-f4d0-40de-8b9a-19bfe746be47?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9f88f8f2-f4d0-40de-8b9a-19bfe746be47",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1456/68, Jefferson Pk., TDH5307A"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1456/68, Jefferson Pk., TDH5307A"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9f88f8f2-f4d0-40de-8b9a-19bfe746be47/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9fa210af-c944-4533-a39e-5ca723ce3d87?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9fa210af-c944-4533-a39e-5ca723ce3d87",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5432/60, Harrison & Jefferson"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5432/60, Harrison & Jefferson"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9fa210af-c944-4533-a39e-5ca723ce3d87/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a1267250-d552-408d-83d5-c2b9234d7c2c?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a1267250-d552-408d-83d5-c2b9234d7c2c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "314/84, Ex-NOPSI, Peterson & Keystone, TDH5303"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "314/84, Ex-NOPSI, Peterson & Keystone, TDH5303"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a1267250-d552-408d-83d5-c2b9234d7c2c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a1a02408-323d-4340-bbee-2525db75e7a4?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a1a02408-323d-4340-bbee-2525db75e7a4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "3863/IN, State Bulletin, Ex-Denver, Hammond IN"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "3863/IN, State Bulletin, Ex-Denver, Hammond IN"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a1a02408-323d-4340-bbee-2525db75e7a4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a49266f9-4beb-4c85-992c-afbfe5956704?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a49266f9-4beb-4c85-992c-afbfe5956704",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9514/82, Kimball & Lawrence"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9514/82, Kimball & Lawrence"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a49266f9-4beb-4c85-992c-afbfe5956704/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a4aca76e-cb84-4d47-a067-37ce244f861f?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a4aca76e-cb84-4d47-a067-37ce244f861f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5056, Harrison & Jefferson"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5056, Harrison & Jefferson"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a4aca76e-cb84-4d47-a067-37ce244f861f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a5aa40de-9f44-4d3a-affb-7064d859da45?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a5aa40de-9f44-4d3a-affb-7064d859da45",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "W30/Ex4-525, Hillcrest"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "W30/Ex4-525, Hillcrest"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a5aa40de-9f44-4d3a-affb-7064d859da45/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a79bb5f9-6c0a-487b-9be2-3b7e9461b184?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a79bb5f9-6c0a-487b-9be2-3b7e9461b184",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "BN/1597, Fairmont, NE"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "BN/1597, Fairmont, NE"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a79bb5f9-6c0a-487b-9be2-3b7e9461b184/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7a15760-62bb-416f-8993-f0b51bddaefb?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a7a15760-62bb-416f-8993-f0b51bddaefb",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4460, Kimball & Lawrence"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4460, Kimball & Lawrence"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7a15760-62bb-416f-8993-f0b51bddaefb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9299dbf-4810-4bd8-84fc-248e00e99b9f?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a9299dbf-4810-4bd8-84fc-248e00e99b9f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "2718, Eagle, Colo."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "2718, Eagle, Colo."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9299dbf-4810-4bd8-84fc-248e00e99b9f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/abf6dd28-6479-48ee-a9c2-241ded2fa292?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/abf6dd28-6479-48ee-a9c2-241ded2fa292",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "5234/92, Berwyn & Broadway"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "5234/92, Berwyn & Broadway"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/abf6dd28-6479-48ee-a9c2-241ded2fa292/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d713925a-7dae-4677-8623-4fff31a5a67a?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d713925a-7dae-4677-8623-4fff31a5a67a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9357/77, Lincoln & Ashland"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9357/77, Lincoln & Ashland"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d713925a-7dae-4677-8623-4fff31a5a67a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b50fae09-3d56-4f10-82e2-e21528f38b18?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b50fae09-3d56-4f10-82e2-e21528f38b18",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9395/78, Montrose & Narragansett"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9395/78, Montrose & Narragansett"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b50fae09-3d56-4f10-82e2-e21528f38b18/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad7912ad-85f5-49ed-ad4b-ccf70046d55f?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/ad7912ad-85f5-49ed-ad4b-ccf70046d55f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4407/36, State & Randolph"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4407/36, State & Randolph"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad7912ad-85f5-49ed-ad4b-ccf70046d55f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b081c3b0-4434-42ca-b3c6-0729c53f1c7c?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b081c3b0-4434-42ca-b3c6-0729c53f1c7c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1547, Des Plaines & Van Buren"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1547, Des Plaines & Van Buren"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b081c3b0-4434-42ca-b3c6-0729c53f1c7c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b0857417-686d-494b-9fda-927fd76043d5?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b0857417-686d-494b-9fda-927fd76043d5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "9207/156, Webster & Stockton"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "9207/156, Webster & Stockton"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b0857417-686d-494b-9fda-927fd76043d5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b1b0169e-4998-40b9-887e-e98ab4bc35af?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b1b0169e-4998-40b9-887e-e98ab4bc35af",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "697/8, Clark & Schubert, 1951, GM/TDH5103"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "697/8, Clark & Schubert, 1951, GM/TDH5103"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b1b0169e-4998-40b9-887e-e98ab4bc35af/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b262bc3f-515c-4a4e-9c16-4d9a321dcb66?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b262bc3f-515c-4a4e-9c16-4d9a321dcb66",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4292, Skokie"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4292, Skokie"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b262bc3f-515c-4a4e-9c16-4d9a321dcb66/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b3342366-4d46-4b53-b678-24abc269d22c?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b3342366-4d46-4b53-b678-24abc269d22c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "697/8, Clark & Schubert"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "697/8, Clark & Schubert"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b3342366-4d46-4b53-b678-24abc269d22c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b5722f91-0711-4f3c-a1e5-c82fb373c85a?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b5722f91-0711-4f3c-a1e5-c82fb373c85a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1211, Cicero & Kennedy, to Minneapolis, MN, M.A.N."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1211, Cicero & Kennedy, to Minneapolis, MN, M.A.N."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b5722f91-0711-4f3c-a1e5-c82fb373c85a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b64ff99a-a9bc-45ea-9d48-473e80c7947b?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b64ff99a-a9bc-45ea-9d48-473e80c7947b",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "1192/111, 103rd & Cottage Grove"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "1192/111, 103rd & Cottage Grove"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b64ff99a-a9bc-45ea-9d48-473e80c7947b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b64083d3-a351-4a9d-89fd-20df034ce1a9?as=iiif",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b64083d3-a351-4a9d-89fd-20df034ce1a9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "4797/3, Monroe 7 Michigan"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "4797/3, Monroe 7 Michigan"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b64083d3-a351-4a9d-89fd-20df034ce1a9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/0ba3a256-4952-44ea-b0d9-0772835ff137?as=iiif&page=7",
+      "type": "Collection",
+      "label": {
+        "none": [
+          "Next page"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.library.northwestern.edu/",
+      "type": "Agent",
+      "label": {
+        "none": [
+          "Northwestern University Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/",
+          "type": "Text",
+          "label": {
+            "none": [
+              "Northwestern University Libraries Digital Collections Homepage"
+            ]
+          },
+          "format": "text/html",
+          "language": [
+            "en"
+          ]
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+          "type": "Image",
+          "format": "image/webp",
+          "height": 139,
+          "width": 1190
+        }
+      ]
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+      "type": "Image",
+      "format": "image/webp",
+      "height": 139,
+      "width": 1190
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/collections/0ba3a256-4952-44ea-b0d9-0772835ff137",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/collections/0ba3a256-4952-44ea-b0d9-0772835ff137",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Ronald J. Sullivan Photograph Collection"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/0ba3a256-4952-44ea-b0d9-0772835ff137/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}
