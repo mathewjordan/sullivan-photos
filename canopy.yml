@@ -8,6 +8,6 @@ metadata:
 featured:
   - https://api.dc.library.northwestern.edu/api/v2/works/16e9aa31-d1da-4085-b841-1220bfd3acda?as=iiif
 theme:
-  appearance: dark
+  appearance: light
   accentColor: violet
   grayColor: mauve
